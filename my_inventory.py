@@ -1,5 +1,3 @@
-# Task 32 - Capstone IV
-
 # ============= Global variable ===========
 shoe_list = []
 
