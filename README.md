@@ -1,4 +1,4 @@
-# IV Capstone
+# Inventory tracker
 
 The project is an inventory tracker. Its job is to look through the inventory.txt file and pick out functions available to the user:
 - add inventory
